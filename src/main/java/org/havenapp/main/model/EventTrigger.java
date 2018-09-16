@@ -8,7 +8,6 @@ import org.havenapp.main.R;
 
 import java.util.Date;
 
-
 public class EventTrigger extends SugarRecord {
 
     private int mType;
