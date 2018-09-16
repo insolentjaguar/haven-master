@@ -7,7 +7,6 @@
  * Licensed under the MIT license.
  */
 
-
 package org.havenapp.main.sensors.media;
 
 
